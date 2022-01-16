@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.b34cbfde.css",
-    "main.js": "/my-app/static/js/main.80df2934.js",
-    "static/js/787.db9b214f.chunk.js": "/my-app/static/js/787.db9b214f.chunk.js",
-    "static/media/Poppins-Thin.ttf": "/my-app/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
-    "static/media/Poppins-Light.ttf": "/my-app/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
-    "static/media/Poppins-Regular.ttf": "/my-app/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
-    "static/media/Poppins-Medium.ttf": "/my-app/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
-    "static/media/Poppins-SemiBold.ttf": "/my-app/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
-    "static/media/Poppins-Bold.ttf": "/my-app/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
-    "static/media/Poppins-ExtraBold.ttf": "/my-app/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
-    "static/media/bg.jpg": "/my-app/static/media/bg.d580cd375921d13ae60d.jpg",
-    "static/media/Atharv.jpg": "/my-app/static/media/Atharv.0fb8e1502482f14361c7.jpg",
-    "index.html": "/my-app/index.html",
-    "main.b34cbfde.css.map": "/my-app/static/css/main.b34cbfde.css.map",
-    "main.80df2934.js.map": "/my-app/static/js/main.80df2934.js.map",
-    "787.db9b214f.chunk.js.map": "/my-app/static/js/787.db9b214f.chunk.js.map"
+    "main.css": "/Portfolio-in-React/static/css/main.94f00478.css",
+    "main.js": "/Portfolio-in-React/static/js/main.5647c824.js",
+    "static/js/787.db9b214f.chunk.js": "/Portfolio-in-React/static/js/787.db9b214f.chunk.js",
+    "static/media/Poppins-Thin.ttf": "/Portfolio-in-React/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/Portfolio-in-React/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/Portfolio-in-React/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/Portfolio-in-React/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/Portfolio-in-React/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/Portfolio-in-React/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/Portfolio-in-React/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/bg.jpg": "/Portfolio-in-React/static/media/bg.d580cd375921d13ae60d.jpg",
+    "static/media/Atharv.jpg": "/Portfolio-in-React/static/media/Atharv.0fb8e1502482f14361c7.jpg",
+    "index.html": "/Portfolio-in-React/index.html",
+    "main.94f00478.css.map": "/Portfolio-in-React/static/css/main.94f00478.css.map",
+    "main.5647c824.js.map": "/Portfolio-in-React/static/js/main.5647c824.js.map",
+    "787.db9b214f.chunk.js.map": "/Portfolio-in-React/static/js/787.db9b214f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b34cbfde.css",
-    "static/js/main.80df2934.js"
+    "static/css/main.94f00478.css",
+    "static/js/main.5647c824.js"
   ]
 }
