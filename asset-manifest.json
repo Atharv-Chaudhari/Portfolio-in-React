@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.073c9b0a.css",
-    "main.js": "/my-app/static/js/main.1a07f99e.js",
-    "static/js/787.edd59a96.chunk.js": "/my-app/static/js/787.edd59a96.chunk.js",
-    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/my-app/index.html",
-    "main.073c9b0a.css.map": "/my-app/static/css/main.073c9b0a.css.map",
-    "main.1a07f99e.js.map": "/my-app/static/js/main.1a07f99e.js.map",
-    "787.edd59a96.chunk.js.map": "/my-app/static/js/787.edd59a96.chunk.js.map"
+    "main.css": "/Atharv-Chaudhari/client/static/css/main.049a0943.css",
+    "main.js": "/Atharv-Chaudhari/client/static/js/main.9177966e.js",
+    "static/js/787.db9b214f.chunk.js": "/Atharv-Chaudhari/client/static/js/787.db9b214f.chunk.js",
+    "static/media/Poppins-Thin.ttf": "/Atharv-Chaudhari/client/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/Atharv-Chaudhari/client/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/Atharv-Chaudhari/client/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/Atharv-Chaudhari/client/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/Atharv-Chaudhari/client/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/Atharv-Chaudhari/client/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/Atharv-Chaudhari/client/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/bg.jpg": "/Atharv-Chaudhari/client/static/media/bg.d580cd375921d13ae60d.jpg",
+    "static/media/Atharv.jpg": "/Atharv-Chaudhari/client/static/media/Atharv.0fb8e1502482f14361c7.jpg",
+    "index.html": "/Atharv-Chaudhari/client/index.html",
+    "main.049a0943.css.map": "/Atharv-Chaudhari/client/static/css/main.049a0943.css.map",
+    "main.9177966e.js.map": "/Atharv-Chaudhari/client/static/js/main.9177966e.js.map",
+    "787.db9b214f.chunk.js.map": "/Atharv-Chaudhari/client/static/js/787.db9b214f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1a07f99e.js"
+    "static/css/main.049a0943.css",
+    "static/js/main.9177966e.js"
   ]
 }
